@@ -1,10 +1,7 @@
 body {
     background-color: black;
-    color: white;
-    text-align: center;
-    border-color: white;
+    color: white
 }
-
 a:visited {
     color: white
 }

@@ -1,3 +1,29 @@
-.home {
-    border-color:black
+.header{
+    text-align: center;
+    border: solid
+}
+.actionList {
+    text-align: center;
+    padding: 2%;
+    border: solid
+}
+.roles {
+    text-align: center;
+    padding: 2%;
+    border: solid
+}
+table {
+    color: white;
+    text-align: center
+}
+th{
+    width: 1%
+}
+.voteLog {
+    text-align: center;
+    border: solid
+}
+.footer{
+    text-align: center;
+    border: solid
 }
