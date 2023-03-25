@@ -21,9 +21,11 @@ th{
 }
 .voteLog {
     text-align: center;
-    border: solid
+    border: solid;
+    padding: 2%;
 }
 .footer{
     text-align: center;
-    border: solid
+    border: solid;
+    padding: 2%;
 }
