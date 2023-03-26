@@ -1,8 +1,9 @@
 import Header from "./header"
 import ActionList from "./actionList"
 import Roles from "./roles"
-import Footer from "./footer"
 import VoteLog from "./voteLog"
+import VoterLog from "./voterLog"
+import Footer from "./footer"
 
 export default function Home () { return (
     <div className = "home">
@@ -10,6 +11,7 @@ export default function Home () { return (
         <ActionList/>
         <Roles/>
         <VoteLog/>
+        <VoterLog/>
         <Footer/>
     </div>
 )

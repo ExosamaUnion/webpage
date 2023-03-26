@@ -12,7 +12,7 @@ export default function ActionList () { return (
         <br></br><br></br>
         3: Vote in the Comments
         <br></br>
-        <a href="https://twitter.com/ExosamaUnion/status/1639401819125186560">twitter.com/ExosamaUnion/status/1639401819125186560</a>
+        NEXT VOTE COMING SOON
         </p>
     </div>
 )
