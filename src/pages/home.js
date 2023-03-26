@@ -12,7 +12,6 @@ export default function Home () { return (
         <Roles/>
         <VoteLog/>
         <VoterLog/>
-        <Footer/>
     </div>
 )
 }
