@@ -3,6 +3,7 @@ body {
     background-image: url("../public/background.jpg");
     background-repeat: no-repeat;
     text-align: center;
+    background-size: cover
 }
 a:visited {
     color: white
