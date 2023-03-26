@@ -1,16 +1,8 @@
-.header{
-    text-align: center;
-    border: solid
-}
-.actionList {
-    text-align: center;
-    padding: 2%;
-    border: solid
-}
-.roles {
-    text-align: center;
-    padding: 2%;
-    border: solid
+.container{
+    background-color: black;
+    margin: auto;
+    width: 80%;
+    opacity: .9
 }
 table {
     color: white;
@@ -18,14 +10,4 @@ table {
 }
 th{
     width: 1%
-}
-.voteLog {
-    text-align: center;
-    border: solid;
-    padding: 2%;
-}
-.footer{
-    text-align: center;
-    border: solid;
-    padding: 2%;
 }

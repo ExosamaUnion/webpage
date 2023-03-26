@@ -1,6 +1,7 @@
 body {
-    background-color: black;
-    color: white
+    color: white;
+    background-image: url("../public/background.jpg");
+    text-align: center;
 }
 a:visited {
     color: white

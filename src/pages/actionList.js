@@ -1,5 +1,5 @@
 export default function ActionList () { return (
-    <div className = 'actionList'>
+    <div className = 'container'>
         <h3>STEPS TO BECOMING A UNION MEMBER</h3>
         <p>
         1: Buy an Exosama 
